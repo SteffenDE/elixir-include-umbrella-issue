@@ -1,0 +1,5 @@
+%{
+  "geolix": {:hex, :geolix, "2.0.0", "7e65764bedfc98d08a3ddb24c417657c9d438eff163280b45fbb7de289626acd", [:mix], [], "hexpm", "8742bf588ed0bb7def2c443204d09d355990846c6efdff96ded66aac24c301df"},
+  "geolix_adapter_mmdb2": {:hex, :geolix_adapter_mmdb2, "0.6.0", "6ab9dbf6ea395817aa1fd2597be25d0dda1853c7f664e62716e47728d18bc4f9", [:mix], [{:geolix, "~> 2.0", [hex: :geolix, repo: "hexpm", optional: false]}, {:mmdb2_decoder, "~> 3.0", [hex: :mmdb2_decoder, repo: "hexpm", optional: false]}], "hexpm", "06ff962feae8a310cffdf86b74bfcda6e2d0dccb439bb1f62df2b657b1c0269b"},
+  "mmdb2_decoder": {:hex, :mmdb2_decoder, "3.0.1", "78e3aedde88035c6873ada5ceaf41b7f15a6259ed034e0eaca72ccfa937798f0", [:mix], [], "hexpm", "316af0f388fac824782d944f54efe78e7c9691bbbdb0afd5cccdd0510adf559d"},
+}
